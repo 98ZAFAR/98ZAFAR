@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Mohammad Zafar 👋</h1>
-  <p><em>A pre-final year Information Technology student at IIEST Shibpur, passionate about building robust full-stack web applications and exploring complex systems.</em></p>
+  <p><em>A final year Information Technology student at IIEST Shibpur, passionate about building robust full-stack web applications and exploring complex systems.</em></p>
 
   <p>
     <a href="mailto:mdzafar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pre-final year IT student at **IIEST Shibpur** (CGPA: 9.01/10).
+- 🎓 Final year IT student at **IIEST Shibpur** (CGPA: 9.01/10).
 - 💻 Building scalable full-stack web applications primarily with the **MERN** stack (Node.js, Express, React/Next.js, MongoDB/MySQL).
 - 💼 **Frontend Engineering Intern** at **mVuew** (Next.js, Tailwind) & Freelance App Developer for **Graho** (React Native, FastAPI RAG Chatbot).
 - 🚀 Currently working on a **Disposable Mail Service** (custom SMTP server) and a **2D Physics Engine**.
